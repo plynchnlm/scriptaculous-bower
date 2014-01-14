@@ -1,0 +1,8 @@
+{
+  "name": "scriptaculous-bower",
+  "version": "1.8.1",
+  "main": "scriptaculous.js"
+  "dependencies": {
+    "prototypejs-bower":  "/home/plynch/project/prototypejs-bower"
+  }
+}
