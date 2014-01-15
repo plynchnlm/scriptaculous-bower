@@ -3,6 +3,6 @@
   "version": "1.8.1",
   "main": "scriptaculous.js",
   "dependencies": {
-    "prototypejs-bower":  "/home/plynch/project/prototypejs-bower"
+    "prototypejs-bower":  "git://github.com/plynchnlm/prototypejs-bower.git#1.7.0"
   }
 }
